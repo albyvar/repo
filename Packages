@@ -1,0 +1,15 @@
+
+Package: albyvar.tgverified
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Alberto V. <alberto.varrica@gmail.com>
+Filename: /albyvar.tgverified_0.0.1-1+debug_iphoneos-arm.deb
+Size: 6542
+MD5sum: ac9d673bf8c2cf93c5ac9ebada47c085
+SHA1: e8790305a55f588c9fbac79f53c41a63b5e4f512
+SHA256: 0c9c497f3fc11fcb6a5df884421def1692361c2abee84e38f3c559ce8fb95759
+Section: Tweaks
+Description: Set all chats/users/channels/groups verified on Telegram!
+Author: Alberto V. <alberto.varrica@gmail.com>
+Name: TGVerified
+
